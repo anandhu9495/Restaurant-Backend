@@ -1,0 +1,17 @@
+{
+  "name": "restaurant-backend",
+  "version": "1.0.0",
+  "description": "backend for restaurant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "'anandhu'"
+  ],
+  "author": "\"anandhu\"",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
